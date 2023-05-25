@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706174433154",
+    "project_id": "ultra-image-editor",
+    "storage_bucket": "ultra-image-editor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706174433154:android:34369a7bb490735786819b",
+        "android_client_info": {
+          "package_name": "com.msstore.ultraimageeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706174433154-7egbnaj9ub9bl9bq694gai8ee81opl1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzlA0baSHHgXBeDRSVOdtB4UiWw9SYdi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706174433154-7egbnaj9ub9bl9bq694gai8ee81opl1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
